@@ -19,7 +19,7 @@
 void main() {
   List<int> arr = [1, 2, 3, 4, 5, 6, 7, 8];
 
-  int searchValue = 6;
+  int searchValue = 5;
   linearSearch(arr, searchValue);
 }
 
